@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net8.0\3. Exact Sum of Real Numbers.exe
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net8.0\3. Exact Sum of Real Numbers.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net8.0\3. Exact Sum of Real Numbers.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net8.0\3. Exact Sum of Real Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net8.0\3. Exact Sum of Real Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\refint\3. Exact Sum of Real Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\3. Exact Sum of Real Numbers.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net8.0\ref\3. Exact Sum of Real Numbers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab Data Types and Variables/1.0.0": {
+        "runtime": {
+          "Lab Data Types and Variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab Data Types and Variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

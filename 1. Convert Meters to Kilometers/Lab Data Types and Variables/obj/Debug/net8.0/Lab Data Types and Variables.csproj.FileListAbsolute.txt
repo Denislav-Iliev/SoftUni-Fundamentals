@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\bin\Debug\net8.0\Lab Data Types and Variables.exe
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\bin\Debug\net8.0\Lab Data Types and Variables.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\bin\Debug\net8.0\Lab Data Types and Variables.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\bin\Debug\net8.0\Lab Data Types and Variables.dll
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\bin\Debug\net8.0\Lab Data Types and Variables.pdb
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.dll
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\refint\Lab Data Types and Variables.dll
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.pdb
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\Lab Data Types and Variables.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\1. Convert Meters to Kilometers\Lab Data Types and Variables\obj\Debug\net8.0\ref\Lab Data Types and Variables.dll
