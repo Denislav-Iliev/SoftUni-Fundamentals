@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\refint\06. Triples of Latin Letters.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\06. Triples of Latin Letters\obj\Debug\net8.0\ref\06. Triples of Latin Letters.dll

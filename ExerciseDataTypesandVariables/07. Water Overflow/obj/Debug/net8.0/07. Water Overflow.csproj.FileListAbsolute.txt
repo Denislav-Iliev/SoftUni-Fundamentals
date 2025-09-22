@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\refint\07. Water Overflow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\07. Water Overflow\obj\Debug\net8.0\ref\07. Water Overflow.dll

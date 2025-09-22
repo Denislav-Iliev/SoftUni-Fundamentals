@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\bin\Debug\net8.0\11. Snowballs.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\bin\Debug\net8.0\11. Snowballs.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\bin\Debug\net8.0\11. Snowballs.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\bin\Debug\net8.0\11. Snowballs.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\bin\Debug\net8.0\11. Snowballs.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\refint\11. Snowballs.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\11. Snowballs.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\11. Snowballs\obj\Debug\net8.0\ref\11. Snowballs.dll

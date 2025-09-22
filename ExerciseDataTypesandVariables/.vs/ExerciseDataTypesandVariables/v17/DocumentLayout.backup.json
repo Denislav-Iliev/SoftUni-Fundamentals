@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1884CDB3-BEC1-47F0-8AAC-D85D4DDF78D7}|11. Snowballs\\11. Snowballs.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\11. snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884CDB3-BEC1-47F0-8AAC-D85D4DDF78D7}|11. Snowballs\\11. Snowballs.csproj|solutionrelative:11. snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E548BD81-413D-4EBD-9863-141A72F78AF2}|10. Poke Mon\\10. Poke Mon.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\10. poke mon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E548BD81-413D-4EBD-9863-141A72F78AF2}|10. Poke Mon\\10. Poke Mon.csproj|solutionrelative:10. poke mon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF1730E-2C0A-47FD-A072-5D8A975595AC}|09. Spice Must Flow\\09. Spice Must Flow.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\09. spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF1730E-2C0A-47FD-A072-5D8A975595AC}|09. Spice Must Flow\\09. Spice Must Flow.csproj|solutionrelative:09. spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CE2AB0-14AD-4A6F-94DA-E4EF05A45549}|08. Beer Kegs\\08. Beer Kegs.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\08. beer kegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CE2AB0-14AD-4A6F-94DA-E4EF05A45549}|08. Beer Kegs\\08. Beer Kegs.csproj|solutionrelative:08. beer kegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19B48EF-C744-40BF-97B5-B0E1787C7D96}|07. Water Overflow\\07. Water Overflow.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\07. water overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19B48EF-C744-40BF-97B5-B0E1787C7D96}|07. Water Overflow\\07. Water Overflow.csproj|solutionrelative:07. water overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70905201-3D3F-467E-AF80-41C80AE3D545}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70905201-3D3F-467E-AF80-41C80AE3D545}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|solutionrelative:06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E18E4-07D9-4A80-902A-3AF62B4B4A6F}|05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\05. print part of ascii table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24E18E4-07D9-4A80-902A-3AF62B4B4A6F}|05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj|solutionrelative:05. print part of ascii table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776649FA-1025-4463-B3F8-FD2CB9EF5430}|04. Sum of Chars\\04. Sum of Chars.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\04. sum of chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776649FA-1025-4463-B3F8-FD2CB9EF5430}|04. Sum of Chars\\04. Sum of Chars.csproj|solutionrelative:04. sum of chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B403C9-EE23-43D2-9563-6FC8CDEC16F1}|03. Elevator\\03. Elevator.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\03. elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B403C9-EE23-43D2-9563-6FC8CDEC16F1}|03. Elevator\\03. Elevator.csproj|solutionrelative:03. elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3ADA71-809B-414F-ADF9-2CF29A814027}|02. Sum Digits\\02. Sum Digits.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\02. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3ADA71-809B-414F-ADF9-2CF29A814027}|02. Sum Digits\\02. Sum Digits.csproj|solutionrelative:02. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164CCB39-3C24-4DF4-BD89-685100338C72}|01. Integer Operations\\01. Integer Operations.csproj|e:\\fundamentals repo\\visual studio projects\\exercisedatatypesandvariables\\01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164CCB39-3C24-4DF4-BD89-685100338C72}|01. Integer Operations\\01. Integer Operations.csproj|solutionrelative:01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\02. Sum Digits\\Program.cs",
+              "RelativeDocumentMoniker": "02. Sum Digits\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\02. Sum Digits\\Program.cs",
+              "RelativeToolTip": "02. Sum Digits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:18:13.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\11. Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11. Snowballs\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\11. Snowballs\\Program.cs",
+              "RelativeToolTip": "11. Snowballs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:38:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\10. Poke Mon\\Program.cs",
+              "RelativeDocumentMoniker": "10. Poke Mon\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\10. Poke Mon\\Program.cs",
+              "RelativeToolTip": "10. Poke Mon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:33:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\09. Spice Must Flow\\Program.cs",
+              "RelativeDocumentMoniker": "09. Spice Must Flow\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\09. Spice Must Flow\\Program.cs",
+              "RelativeToolTip": "09. Spice Must Flow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:22:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\08. Beer Kegs\\Program.cs",
+              "RelativeDocumentMoniker": "08. Beer Kegs\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\08. Beer Kegs\\Program.cs",
+              "RelativeToolTip": "08. Beer Kegs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:14:18.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\07. Water Overflow\\Program.cs",
+              "RelativeDocumentMoniker": "07. Water Overflow\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\07. Water Overflow\\Program.cs",
+              "RelativeToolTip": "07. Water Overflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:58:47.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\06. Triples of Latin Letters\\Program.cs",
+              "RelativeDocumentMoniker": "06. Triples of Latin Letters\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\06. Triples of Latin Letters\\Program.cs",
+              "RelativeToolTip": "06. Triples of Latin Letters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:49:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\05. Print Part Of ASCII Table\\Program.cs",
+              "RelativeDocumentMoniker": "05. Print Part Of ASCII Table\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\05. Print Part Of ASCII Table\\Program.cs",
+              "RelativeToolTip": "05. Print Part Of ASCII Table\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:44:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\04. Sum of Chars\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sum of Chars\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\04. Sum of Chars\\Program.cs",
+              "RelativeToolTip": "04. Sum of Chars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:34:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\03. Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Elevator\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\03. Elevator\\Program.cs",
+              "RelativeToolTip": "03. Elevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:29:37.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\01. Integer Operations\\Program.cs",
+              "RelativeDocumentMoniker": "01. Integer Operations\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\ExerciseDataTypesandVariables\\01. Integer Operations\\Program.cs",
+              "RelativeToolTip": "01. Integer Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:14:09.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
