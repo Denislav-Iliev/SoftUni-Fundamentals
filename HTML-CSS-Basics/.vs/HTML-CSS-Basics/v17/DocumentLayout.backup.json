@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|e:\\fundamentals repo\\visual studio projects\\html-css-basics\\html-css-basics\\html-css-basics.apphost\\wikipage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|solutionrelative:html-css-basics\\html-css-basics.apphost\\wikipage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|e:\\fundamentals repo\\visual studio projects\\html-css-basics\\html-css-basics\\html-css-basics.apphost\\htmllists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|solutionrelative:html-css-basics\\html-css-basics.apphost\\htmllists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|e:\\fundamentals repo\\visual studio projects\\html-css-basics\\html-css-basics\\html-css-basics.apphost\\fruits.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|solutionrelative:html-css-basics\\html-css-basics.apphost\\fruits.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|e:\\fundamentals repo\\visual studio projects\\html-css-basics\\html-css-basics\\html-css-basics.apphost\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A610D4EE-88C4-47D2-AB8D-3B7D75E0543B}|HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTML-CSS-Basics.AppHost.csproj|solutionrelative:html-css-basics\\html-css-basics.apphost\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WikiPage.html",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\WikiPage.html",
+              "RelativeDocumentMoniker": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\WikiPage.html",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\WikiPage.html",
+              "RelativeToolTip": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\WikiPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-30T02:55:31.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLLists.html",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTMLLists.html",
+              "RelativeDocumentMoniker": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTMLLists.html",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTMLLists.html",
+              "RelativeToolTip": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\HTMLLists.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-30T02:37:43.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruits.html",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\Fruits.html",
+              "RelativeDocumentMoniker": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\Fruits.html",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\Fruits.html",
+              "RelativeToolTip": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\Fruits.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-30T02:31:57.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "welcome.html",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\welcome.html",
+              "RelativeDocumentMoniker": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\welcome.html",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\HTML-CSS-Basics\\HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\welcome.html",
+              "RelativeToolTip": "HTML-CSS-Basics\\HTML-CSS-Basics.AppHost\\welcome.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-30T02:26:58.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

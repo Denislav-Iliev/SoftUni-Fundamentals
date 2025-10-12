@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\bin\Debug\net8.0\01. Day of Week.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\bin\Debug\net8.0\01. Day of Week.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\bin\Debug\net8.0\01. Day of Week.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\bin\Debug\net8.0\01. Day of Week.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\bin\Debug\net8.0\01. Day of Week.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\refint\01. Day of Week.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\01. Day of Week.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\01. Day of Week\obj\Debug\net8.0\ref\01. Day of Week.dll

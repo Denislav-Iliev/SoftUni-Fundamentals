@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84342C2-9449-4D82-BBBB-EDA035298A79}|10. Top Number\\10. Top Number.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84342C2-9449-4D82-BBBB-EDA035298A79}|10. Top Number\\10. Top Number.csproj|solutionrelative:10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A45AD4-3660-4E58-3287-A44BC87AED7D}|09. Palindrome Integers\\09. Palindrome Integers.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A45AD4-3660-4E58-3287-A44BC87AED7D}|09. Palindrome Integers\\09. Palindrome Integers.csproj|solutionrelative:09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16992495-4421-B7C4-0F6E-D160BC658251}|08. Factorial Division\\08. Factorial Division.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\08. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16992495-4421-B7C4-0F6E-D160BC658251}|08. Factorial Division\\08. Factorial Division.csproj|solutionrelative:08. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AF9385-0770-5223-CAC2-0BC5436DFB08}|07. NxN Matrix\\07. NxN Matrix.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\07. nxn matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0AF9385-0770-5223-CAC2-0BC5436DFB08}|07. NxN Matrix\\07. NxN Matrix.csproj|solutionrelative:07. nxn matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5F2F92-5706-36D4-B568-D0030BBE2B91}|6. Middle Characters\\06. Middle Characters.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\6. middle characters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5F2F92-5706-36D4-B568-D0030BBE2B91}|6. Middle Characters\\06. Middle Characters.csproj|solutionrelative:6. middle characters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66B4EF9-7517-1EEF-AE8D-5F2ECA6321F7}|05. Add and Subtract\\05. Add and Subtract.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\05. add and subtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66B4EF9-7517-1EEF-AE8D-5F2ECA6321F7}|05. Add and Subtract\\05. Add and Subtract.csproj|solutionrelative:05. add and subtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99319CC-613B-B978-7E6B-11C79E4757CA}|4. Password Validator\\04.Password Validator.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\4. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99319CC-613B-B978-7E6B-11C79E4757CA}|4. Password Validator\\04.Password Validator.csproj|solutionrelative:4. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2C2AF3-74E5-6839-57F4-58981131211A}|03. Characters in Range\\03. Characters in Range.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2C2AF3-74E5-6839-57F4-58981131211A}|03. Characters in Range\\03. Characters in Range.csproj|solutionrelative:03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B280671B-A163-DAF9-C1B8-A3EDC91F3985}|02. Vowels Count\\02. Vowels Count.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B280671B-A163-DAF9-C1B8-A3EDC91F3985}|02. Vowels Count\\02. Vowels Count.csproj|solutionrelative:02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1152743-6B6C-B8B9-1C1C-97CED8D934E4}|01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\methods - exercise\\01. smallest of three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1152743-6B6C-B8B9-1C1C-97CED8D934E4}|01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj|solutionrelative:01. smallest of three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\10. Top Number\\Program.cs",
+              "RelativeDocumentMoniker": "10. Top Number\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\10. Top Number\\Program.cs",
+              "RelativeToolTip": "10. Top Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:52:11.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\08. Factorial Division\\Program.cs",
+              "RelativeDocumentMoniker": "08. Factorial Division\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\08. Factorial Division\\Program.cs",
+              "RelativeToolTip": "08. Factorial Division\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:33:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\07. NxN Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "07. NxN Matrix\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\07. NxN Matrix\\Program.cs",
+              "RelativeToolTip": "07. NxN Matrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:22:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\09. Palindrome Integers\\Program.cs",
+              "RelativeDocumentMoniker": "09. Palindrome Integers\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\09. Palindrome Integers\\Program.cs",
+              "RelativeToolTip": "09. Palindrome Integers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:47:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\6. Middle Characters\\Program.cs",
+              "RelativeDocumentMoniker": "6. Middle Characters\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\6. Middle Characters\\Program.cs",
+              "RelativeToolTip": "6. Middle Characters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:33:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\05. Add and Subtract\\Program.cs",
+              "RelativeDocumentMoniker": "05. Add and Subtract\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\05. Add and Subtract\\Program.cs",
+              "RelativeToolTip": "05. Add and Subtract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:27:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\4. Password Validator\\Program.cs",
+              "RelativeDocumentMoniker": "4. Password Validator\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\4. Password Validator\\Program.cs",
+              "RelativeToolTip": "4. Password Validator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:10:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\03. Characters in Range\\Program.cs",
+              "RelativeDocumentMoniker": "03. Characters in Range\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\03. Characters in Range\\Program.cs",
+              "RelativeToolTip": "03. Characters in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:00:45.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\02. Vowels Count\\Program.cs",
+              "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\02. Vowels Count\\Program.cs",
+              "RelativeToolTip": "02. Vowels Count\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:47:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\01. Smallest of Three Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\Methods - Exercise\\01. Smallest of Three Numbers\\Program.cs",
+              "RelativeToolTip": "01. Smallest of Three Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:41:13.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

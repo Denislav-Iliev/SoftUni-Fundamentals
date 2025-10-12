@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\bin\Debug\net8.0\01. Train.exe
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\bin\Debug\net8.0\01. Train.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\bin\Debug\net8.0\01. Train.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\bin\Debug\net8.0\01. Train.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\bin\Debug\net8.0\01. Train.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\refint\01. Train.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\01. Train.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\01. Train\obj\Debug\net8.0\ref\01. Train.dll

@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.exe
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\refint\08. Magic Sum.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\08. Magic Sum\obj\Debug\net8.0\ref\08. Magic Sum.dll

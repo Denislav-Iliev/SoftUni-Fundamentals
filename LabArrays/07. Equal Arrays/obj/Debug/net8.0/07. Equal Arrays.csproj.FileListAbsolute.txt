@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\refint\07. Equal Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\07. Equal Arrays\obj\Debug\net8.0\ref\07. Equal Arrays.dll
