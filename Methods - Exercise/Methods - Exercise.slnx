@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01. Smallest of Three Numbers/01. Smallest of Three Numbers.csproj" />
+  <Project Path="02. Vowels Count/02. Vowels Count.csproj" />
+  <Project Path="03. Characters in Range/03. Characters in Range.csproj" />
+  <Project Path="05. Add and Subtract/05. Add and Subtract.csproj" />
+  <Project Path="07. NxN Matrix/07. NxN Matrix.csproj" />
+  <Project Path="08. Factorial Division/08. Factorial Division.csproj" />
+  <Project Path="09. Palindrome Integers/09. Palindrome Integers.csproj" />
+  <Project Path="10. Top Number/10. Top Number.csproj" Id="a84342c2-9449-4d82-bbbb-eda035298a79" />
+  <Project Path="4. Password Validator/04.Password Validator.csproj" />
+  <Project Path="6. Middle Characters/06. Middle Characters.csproj" />
+</Solution>

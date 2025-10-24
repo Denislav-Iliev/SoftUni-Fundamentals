@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\bin\Debug\net8.0\10. Poke Mon.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\bin\Debug\net8.0\10. Poke Mon.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\bin\Debug\net8.0\10. Poke Mon.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\bin\Debug\net8.0\10. Poke Mon.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\bin\Debug\net8.0\10. Poke Mon.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\refint\10. Poke Mon.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\10. Poke Mon.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\10. Poke Mon\obj\Debug\net8.0\ref\10. Poke Mon.dll

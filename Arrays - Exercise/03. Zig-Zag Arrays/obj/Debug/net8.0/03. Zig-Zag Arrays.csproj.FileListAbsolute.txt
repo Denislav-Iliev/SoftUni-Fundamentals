@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net8.0\03. Zig-Zag Arrays.exe
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net8.0\03. Zig-Zag Arrays.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net8.0\03. Zig-Zag Arrays.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net8.0\03. Zig-Zag Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net8.0\03. Zig-Zag Arrays.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\refint\03. Zig-Zag Arrays.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\03. Zig-Zag Arrays.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net8.0\ref\03. Zig-Zag Arrays.dll

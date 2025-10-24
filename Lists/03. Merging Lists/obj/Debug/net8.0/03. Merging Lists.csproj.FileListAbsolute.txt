@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\bin\Debug\net8.0\03. Merging Lists.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\bin\Debug\net8.0\03. Merging Lists.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\bin\Debug\net8.0\03. Merging Lists.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\bin\Debug\net8.0\03. Merging Lists.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\bin\Debug\net8.0\03. Merging Lists.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\refint\03. Merging Lists.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\03. Merging Lists.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\03. Merging Lists\obj\Debug\net8.0\ref\03. Merging Lists.dll

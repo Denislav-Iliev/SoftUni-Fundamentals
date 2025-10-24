@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\refint\02. Change List.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net8.0\ref\02. Change List.dll

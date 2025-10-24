@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net8.0\2. Pounds to Dollars.exe
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net8.0\2. Pounds to Dollars.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net8.0\2. Pounds to Dollars.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net8.0\2. Pounds to Dollars.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\net8.0\2. Pounds to Dollars.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\refint\2. Pounds to Dollars.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\2. Pounds to Dollars.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\net8.0\ref\2. Pounds to Dollars.dll

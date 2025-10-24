@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\bin\Debug\net8.0\05. Orders.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\bin\Debug\net8.0\05. Orders.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\bin\Debug\net8.0\05. Orders.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\bin\Debug\net8.0\05. Orders.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\bin\Debug\net8.0\05. Orders.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\refint\05. Orders.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\05. Orders.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\05. Orders\obj\Debug\net8.0\ref\05. Orders.dll

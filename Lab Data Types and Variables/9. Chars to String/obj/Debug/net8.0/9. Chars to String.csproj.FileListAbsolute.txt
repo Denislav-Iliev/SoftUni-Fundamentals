@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\bin\Debug\net8.0\9. Chars to String.exe
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\bin\Debug\net8.0\9. Chars to String.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\bin\Debug\net8.0\9. Chars to String.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\bin\Debug\net8.0\9. Chars to String.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\bin\Debug\net8.0\9. Chars to String.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\refint\9. Chars to String.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\9. Chars to String.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\9. Chars to String\obj\Debug\net8.0\ref\9. Chars to String.dll

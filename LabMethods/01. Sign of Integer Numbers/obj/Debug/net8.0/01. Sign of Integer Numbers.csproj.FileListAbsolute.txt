@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\bin\Debug\net8.0\01. Sign of Integer Numbers.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\bin\Debug\net8.0\01. Sign of Integer Numbers.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\bin\Debug\net8.0\01. Sign of Integer Numbers.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\bin\Debug\net8.0\01. Sign of Integer Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\bin\Debug\net8.0\01. Sign of Integer Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\refint\01. Sign of Integer Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabMethods\01. Sign of Integer Numbers\obj\Debug\net8.0\ref\01. Sign of Integer Numbers.dll

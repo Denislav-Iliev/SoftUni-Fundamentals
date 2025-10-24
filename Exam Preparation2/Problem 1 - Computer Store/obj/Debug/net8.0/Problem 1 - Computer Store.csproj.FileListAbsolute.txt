@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\bin\Debug\net8.0\Problem 1 - Computer Store.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\bin\Debug\net8.0\Problem 1 - Computer Store.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\bin\Debug\net8.0\Problem 1 - Computer Store.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\bin\Debug\net8.0\Problem 1 - Computer Store.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\bin\Debug\net8.0\Problem 1 - Computer Store.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\refint\Problem 1 - Computer Store.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\Problem 1 - Computer Store.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation2\Problem 1 - Computer Store\obj\Debug\net8.0\ref\Problem 1 - Computer Store.dll

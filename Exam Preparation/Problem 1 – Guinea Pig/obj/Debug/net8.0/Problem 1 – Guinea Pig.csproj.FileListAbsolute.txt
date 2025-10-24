@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\bin\Debug\net8.0\Problem 1 – Guinea Pig.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\bin\Debug\net8.0\Problem 1 – Guinea Pig.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\bin\Debug\net8.0\Problem 1 – Guinea Pig.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\bin\Debug\net8.0\Problem 1 – Guinea Pig.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\bin\Debug\net8.0\Problem 1 – Guinea Pig.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\refint\Problem 1 – Guinea Pig.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\Problem 1 – Guinea Pig.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Exam Preparation\Problem 1 – Guinea Pig\obj\Debug\net8.0\ref\Problem 1 – Guinea Pig.dll

@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\refint\05. Sum Even Numbers.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\05. Sum Even Numbers\obj\Debug\net8.0\ref\05. Sum Even Numbers.dll

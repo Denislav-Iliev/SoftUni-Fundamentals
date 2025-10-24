@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C50B0DF-654D-4B40-AEB0-DFDA013B06DA}|Problem 3 \u2013 Moving Target\\Problem 3 \u2013 Moving Target.csproj|e:\\fundamentals repo\\softuni-fundamentals\\exam preparation\\problem 3 \u2013 moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C50B0DF-654D-4B40-AEB0-DFDA013B06DA}|Problem 3 \u2013 Moving Target\\Problem 3 \u2013 Moving Target.csproj|solutionrelative:problem 3 \u2013 moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F703EC3D-388A-49C7-A62A-16B6F71F587D}|Problem 1 \u2013 Guinea Pig\\Problem 1 \u2013 Guinea Pig.csproj|e:\\fundamentals repo\\softuni-fundamentals\\exam preparation\\problem 1 \u2013 guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F703EC3D-388A-49C7-A62A-16B6F71F587D}|Problem 1 \u2013 Guinea Pig\\Problem 1 \u2013 Guinea Pig.csproj|solutionrelative:problem 1 \u2013 guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D62C3BA-96E8-4750-BA34-1212979BAB29}|Problem 2 \u2013 The Lift\\Problem 2 \u2013 The Lift.csproj|e:\\fundamentals repo\\softuni-fundamentals\\exam preparation\\problem 2 \u2013 the lift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D62C3BA-96E8-4750-BA34-1212979BAB29}|Problem 2 \u2013 The Lift\\Problem 2 \u2013 The Lift.csproj|solutionrelative:problem 2 \u2013 the lift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 3 \u2013 Moving Target\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 3 \u2013 Moving Target\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 3 \u2013 Moving Target\\Program.cs",
+              "RelativeToolTip": "Problem 3 \u2013 Moving Target\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:33:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 2 \u2013 The Lift\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 2 \u2013 The Lift\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 2 \u2013 The Lift\\Program.cs",
+              "RelativeToolTip": "Problem 2 \u2013 The Lift\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:09:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 1 \u2013 Guinea Pig\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 1 \u2013 Guinea Pig\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation\\Problem 1 \u2013 Guinea Pig\\Program.cs",
+              "RelativeToolTip": "Problem 1 \u2013 Guinea Pig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:40:13.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3216-CFFA-439E-B9E2-A48C39D2661D}|11. Math operations\\11. Math operations.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\11. math operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3216-CFFA-439E-B9E2-A48C39D2661D}|11. Math operations\\11. Math operations.csproj|solutionrelative:11. math operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3EC0BD-2B20-4A7B-BEC9-7DE2BF092BC5}|08. Math Power\\08. Math Power.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\08. math power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3EC0BD-2B20-4A7B-BEC9-7DE2BF092BC5}|08. Math Power\\08. Math Power.csproj|solutionrelative:08. math power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE0D00F-BDDF-49FD-8CBB-413AE29204A4}|05. Orders\\05. Orders.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE0D00F-BDDF-49FD-8CBB-413AE29204A4}|05. Orders\\05. Orders.csproj|solutionrelative:05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E80152-528B-4ADD-9E8A-D391089910D4}|03. Calculations\\03. Calculations.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\03. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E80152-528B-4ADD-9E8A-D391089910D4}|03. Calculations\\03. Calculations.csproj|solutionrelative:03. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6B5BC5-CCEE-47F6-8CE8-9929E121D77E}|10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\10. multiply evens by odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6B5BC5-CCEE-47F6-8CE8-9929E121D77E}|10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj|solutionrelative:10. multiply evens by odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE9BC3-EB52-4121-8B0D-44123E9E5EE3}|09. Greater of Two Values\\09. Greater of Two Values.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\09. greater of two values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE9BC3-EB52-4121-8B0D-44123E9E5EE3}|09. Greater of Two Values\\09. Greater of Two Values.csproj|solutionrelative:09. greater of two values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40331F14-2184-4B59-9619-D1C5A255392C}|07. Repeat String\\07. Repeat String.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\07. repeat string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40331F14-2184-4B59-9619-D1C5A255392C}|07. Repeat String\\07. Repeat String.csproj|solutionrelative:07. repeat string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CF5A7A-AC27-4AC9-8002-5552A7F8A9A0}|06. Calculate Rectangle Area\\06. Calculate Rectangle Area.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\06. calculate rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CF5A7A-AC27-4AC9-8002-5552A7F8A9A0}|06. Calculate Rectangle Area\\06. Calculate Rectangle Area.csproj|solutionrelative:06. calculate rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731E2BA6-B5A3-4BB7-9095-5E2BE9365F18}|04. Printing Triangle\\04. Printing Triangle.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731E2BA6-B5A3-4BB7-9095-5E2BE9365F18}|04. Printing Triangle\\04. Printing Triangle.csproj|solutionrelative:04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B99597-8F07-4C8F-891B-6D60603BD02F}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B99597-8F07-4C8F-891B-6D60603BD02F}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|solutionrelative:01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8192FAC7-BE5B-4936-8676-2FA3D409416A}|02. Grades\\02. Grades.csproj|e:\\fundamentals repo\\visual studio projects\\labmethods\\02. grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8192FAC7-BE5B-4936-8676-2FA3D409416A}|02. Grades\\02. Grades.csproj|solutionrelative:02. grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\06. Calculate Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "06. Calculate Rectangle Area\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\06. Calculate Rectangle Area\\Program.cs",
+              "RelativeToolTip": "06. Calculate Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:33:08.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\11. Math operations\\Program.cs",
+              "RelativeDocumentMoniker": "11. Math operations\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\11. Math operations\\Program.cs",
+              "RelativeToolTip": "11. Math operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:19:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\08. Math Power\\Program.cs",
+              "RelativeDocumentMoniker": "08. Math Power\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\08. Math Power\\Program.cs",
+              "RelativeToolTip": "08. Math Power\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:09:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\05. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "05. Orders\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\05. Orders\\Program.cs",
+              "RelativeToolTip": "05. Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:54:37.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\10. Multiply Evens by Odds\\Program.cs",
+              "RelativeDocumentMoniker": "10. Multiply Evens by Odds\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\10. Multiply Evens by Odds\\Program.cs",
+              "RelativeToolTip": "10. Multiply Evens by Odds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:33:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\09. Greater of Two Values\\Program.cs",
+              "RelativeDocumentMoniker": "09. Greater of Two Values\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\09. Greater of Two Values\\Program.cs",
+              "RelativeToolTip": "09. Greater of Two Values\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:52:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\07. Repeat String\\Program.cs",
+              "RelativeDocumentMoniker": "07. Repeat String\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\07. Repeat String\\Program.cs",
+              "RelativeToolTip": "07. Repeat String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:07:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\04. Printing Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "04. Printing Triangle\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\04. Printing Triangle\\Program.cs",
+              "RelativeToolTip": "04. Printing Triangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:22:15.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\03. Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "03. Calculations\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\03. Calculations\\Program.cs",
+              "RelativeToolTip": "03. Calculations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:09:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\02. Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02. Grades\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\02. Grades\\Program.cs",
+              "RelativeToolTip": "02. Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:01:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\01. Sign of Integer Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sign of Integer Numbers\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\Visual Studio Projects\\LabMethods\\01. Sign of Integer Numbers\\Program.cs",
+              "RelativeToolTip": "01. Sign of Integer Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:51:41.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

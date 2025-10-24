@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01. Sum Adjacent Equal Numbers/01. Sum Adjacent Equal Numbers.csproj" />
+  <Project Path="02. Gauss' Trick/02. Gauss' Trick.csproj" />
+  <Project Path="03. Merging Lists/03. Merging Lists.csproj" />
+  <Project Path="04. List of Products/04. List of Products.csproj" />
+  <Project Path="05. Remove Negatives and Reverse/05. Remove Negatives and Reverse.csproj" />
+  <Project Path="06. List Manipulation Basics/06. List Manipulation Basics.csproj" />
+  <Project Path="07. List Manipulation Advanced/07. List Manipulation Advanced.csproj" />
+</Solution>

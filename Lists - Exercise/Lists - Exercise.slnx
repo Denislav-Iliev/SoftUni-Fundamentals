@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01. Train/01. Train.csproj" />
+  <Project Path="02. Change List/02. Change List.csproj" />
+  <Project Path="03. House Party/03. House Party.csproj" />
+  <Project Path="04. List Operations/04. List Operations.csproj" />
+  <Project Path="05. Bomb Numbers/05. Bomb Numbers.csproj" />
+  <Project Path="06. Cards Game/06. Cards Game.csproj" />
+  <Project Path="07. Append Arrays/07. Append Arrays.csproj" />
+  <Project Path="08. Anonymous Threat/08. Anonymous Threat.csproj" />
+  <Project Path="09. Pokemon Don't Go/09. Pokemon Don't Go.csproj" />
+  <Project Path="10. SoftUni Course Planning/10. SoftUni Course Planning.csproj" />
+</Solution>

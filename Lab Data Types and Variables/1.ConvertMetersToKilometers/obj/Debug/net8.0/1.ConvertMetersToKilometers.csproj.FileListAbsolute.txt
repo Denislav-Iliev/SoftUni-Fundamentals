@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\bin\Debug\net8.0\1.ConvertMetersToKilometers.exe
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\bin\Debug\net8.0\1.ConvertMetersToKilometers.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\bin\Debug\net8.0\1.ConvertMetersToKilometers.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\bin\Debug\net8.0\1.ConvertMetersToKilometers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\bin\Debug\net8.0\1.ConvertMetersToKilometers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\refint\1.ConvertMetersToKilometers.dll
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\1.ConvertMetersToKilometers.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Lab Data Types and Variables\1.ConvertMetersToKilometers\obj\Debug\net8.0\ref\1.ConvertMetersToKilometers.dll

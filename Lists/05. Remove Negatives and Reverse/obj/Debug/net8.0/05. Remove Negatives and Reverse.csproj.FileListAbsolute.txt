@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\refint\05. Remove Negatives and Reverse.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\net8.0\ref\05. Remove Negatives and Reverse.dll

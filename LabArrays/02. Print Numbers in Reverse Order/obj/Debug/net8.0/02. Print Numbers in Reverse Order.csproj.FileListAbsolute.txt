@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.exe
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\refint\02. Print Numbers in Reverse Order.dll
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.pdb
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\LabArrays\02. Print Numbers in Reverse Order\obj\Debug\net8.0\ref\02. Print Numbers in Reverse Order.dll

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01. Advertisement Message/01. Advertisement Message.csproj" />
+  <Project Path="02. Articles/02. Articles.csproj" />
+  <Project Path="03. Articles 2.0/03. Articles 2.0.csproj" />
+  <Project Path="04. Students/04. Students.csproj" />
+  <Project Path="05. Teamwork Projects/05. Teamwork Projects.csproj" />
+  <Project Path="06. Vehicle Catalogue/06. Vehicle Catalogue.csproj" />
+  <Project Path="07. Order by Age/07. Order by Age.csproj" />
+</Solution>

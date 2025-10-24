@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\bin\Debug\net8.0\09. Spice Must Flow.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\bin\Debug\net8.0\09. Spice Must Flow.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\bin\Debug\net8.0\09. Spice Must Flow.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\bin\Debug\net8.0\09. Spice Must Flow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\bin\Debug\net8.0\09. Spice Must Flow.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\refint\09. Spice Must Flow.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\09. Spice Must Flow.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\09. Spice Must Flow\obj\Debug\net8.0\ref\09. Spice Must Flow.dll

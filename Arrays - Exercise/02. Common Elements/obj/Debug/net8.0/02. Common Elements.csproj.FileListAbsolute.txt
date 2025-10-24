@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\bin\Debug\net8.0\02. Common Elements.exe
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\bin\Debug\net8.0\02. Common Elements.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\bin\Debug\net8.0\02. Common Elements.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\bin\Debug\net8.0\02. Common Elements.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\bin\Debug\net8.0\02. Common Elements.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\refint\02. Common Elements.dll
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.pdb
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\02. Common Elements.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\Arrays - Exercise\02. Common Elements\obj\Debug\net8.0\ref\02. Common Elements.dll

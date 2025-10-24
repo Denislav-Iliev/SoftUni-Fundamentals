@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D603C74-9F1E-466C-9FF5-CE456E9C4794}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D603C74-9F1E-466C-9FF5-CE456E9C4794}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|solutionrelative:07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AE4CAC-28DD-410A-840A-D1CD7987E0B0}|09. Kamino Factory\\09. Kamino Factory.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AE4CAC-28DD-410A-840A-D1CD7987E0B0}|09. Kamino Factory\\09. Kamino Factory.csproj|solutionrelative:09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB9B093-95DB-4244-B668-975A4D107947}|03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\03. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB9B093-95DB-4244-B668-975A4D107947}|03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj|solutionrelative:03. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E4C858-7A30-459F-945C-D544C7468CD5}|06. Equal Sum\\06. Equal Sum.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\06. equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E4C858-7A30-459F-945C-D544C7468CD5}|06. Equal Sum\\06. Equal Sum.csproj|solutionrelative:06. equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5F1A40-FCF7-4F3E-B0BC-1D34268487ED}|01. Train\\01. Train.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5F1A40-FCF7-4F3E-B0BC-1D34268487ED}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B3A107-8F95-4C4E-890B-95DEDABE0027}|02. Common Elements\\02. Common Elements.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B3A107-8F95-4C4E-890B-95DEDABE0027}|02. Common Elements\\02. Common Elements.csproj|solutionrelative:02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02919C8B-5893-4636-BCF0-98EE03917E49}|08. Magic Sum\\08. Magic Sum.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02919C8B-5893-4636-BCF0-98EE03917E49}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAFD41E-4909-4DC3-8828-2E2D46DFB798}|10. LadyBugs\\10. LadyBugs.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAFD41E-4909-4DC3-8828-2E2D46DFB798}|10. LadyBugs\\10. LadyBugs.csproj|solutionrelative:10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E25594-2188-4BA6-B42B-6AA0E3B9E8A8}|05. Top Integers\\05. Top Integers.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E25594-2188-4BA6-B42B-6AA0E3B9E8A8}|05. Top Integers\\05. Top Integers.csproj|solutionrelative:05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B101A0-C23D-4033-B55A-F225F1F5DAC7}|04. Array Rotation\\04. Array Rotation.csproj|r:\\visual studio\\fundamentals repo\\visual studio projects\\arrays - exercise\\04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B101A0-C23D-4033-B55A-F225F1F5DAC7}|04. Array Rotation\\04. Array Rotation.csproj|solutionrelative:04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\07. Max Sequence of Equal Elements\\Program.cs",
+              "RelativeDocumentMoniker": "07. Max Sequence of Equal Elements\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\07. Max Sequence of Equal Elements\\Program.cs",
+              "RelativeToolTip": "07. Max Sequence of Equal Elements\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\06. Equal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "06. Equal Sum\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\06. Equal Sum\\Program.cs",
+              "RelativeToolTip": "06. Equal Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\05. Top Integers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Top Integers\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\05. Top Integers\\Program.cs",
+              "RelativeToolTip": "05. Top Integers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\04. Array Rotation\\Program.cs",
+              "RelativeDocumentMoniker": "04. Array Rotation\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\04. Array Rotation\\Program.cs",
+              "RelativeToolTip": "04. Array Rotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\03. Zig-Zag Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\03. Zig-Zag Arrays\\Program.cs",
+              "RelativeToolTip": "03. Zig-Zag Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\02. Common Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Common Elements\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\02. Common Elements\\Program.cs",
+              "RelativeToolTip": "02. Common Elements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\01. Train\\Program.cs",
+              "RelativeDocumentMoniker": "01. Train\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\01. Train\\Program.cs",
+              "RelativeToolTip": "01. Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\08. Magic Sum\\Program.cs",
+              "RelativeDocumentMoniker": "08. Magic Sum\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\08. Magic Sum\\Program.cs",
+              "RelativeToolTip": "08. Magic Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\09. Kamino Factory\\Program.cs",
+              "RelativeDocumentMoniker": "09. Kamino Factory\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\09. Kamino Factory\\Program.cs",
+              "RelativeToolTip": "09. Kamino Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\10. LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10. LadyBugs\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\Visual Studio Projects\\Arrays - Exercise\\10. LadyBugs\\Program.cs",
+              "RelativeToolTip": "10. LadyBugs\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:45.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

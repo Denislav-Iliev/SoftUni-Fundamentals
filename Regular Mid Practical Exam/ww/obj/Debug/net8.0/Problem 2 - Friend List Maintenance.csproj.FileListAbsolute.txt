@@ -1,0 +1,4 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Regular Mid Practical Exam\ww\obj\Debug\net8.0\Problem 2 - Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Regular Mid Practical Exam\ww\obj\Debug\net8.0\Problem 2 - Friend List Maintenance.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Regular Mid Practical Exam\ww\obj\Debug\net8.0\Problem 2 - Friend List Maintenance.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Regular Mid Practical Exam\ww\obj\Debug\net8.0\Problem 2 - Friend List Maintenance.csproj.CoreCompileInputs.cache

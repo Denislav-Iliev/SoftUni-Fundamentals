@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\refint\05. Print Part Of ASCII Table.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\05. Print Part Of ASCII Table\obj\Debug\net8.0\ref\05. Print Part Of ASCII Table.dll

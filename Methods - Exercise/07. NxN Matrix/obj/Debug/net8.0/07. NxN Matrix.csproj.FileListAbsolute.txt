@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\net8.0\07. NxN Matrix.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\net8.0\07. NxN Matrix.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\net8.0\07. NxN Matrix.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\net8.0\07. NxN Matrix.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\net8.0\07. NxN Matrix.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.sourcelink.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\refint\07. NxN Matrix.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\07. NxN Matrix.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\net8.0\ref\07. NxN Matrix.dll

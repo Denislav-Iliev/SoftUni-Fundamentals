@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\refint\02. Gauss' Trick.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\02. Gauss' Trick\obj\Debug\net8.0\ref\02. Gauss' Trick.dll

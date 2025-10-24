@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ee/Problem 1 - Cooking Masterclass.csproj" />
+  <Project Path="ww/Problem 2 - Friend List Maintenance.csproj" />
+  <Project Path="zz/Problem 3 - Chat Logger.csproj" />
+</Solution>

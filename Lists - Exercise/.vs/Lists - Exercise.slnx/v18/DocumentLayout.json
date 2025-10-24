@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BF087-5493-BA6D-E87A-4FE94BD971CC}|05. Bomb Numbers\\05. Bomb Numbers.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BF087-5493-BA6D-E87A-4FE94BD971CC}|05. Bomb Numbers\\05. Bomb Numbers.csproj|solutionrelative:05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18462A49-5053-6CFE-AA9E-5D099B185342}|04. List Operations\\04. List Operations.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\04. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18462A49-5053-6CFE-AA9E-5D099B185342}|04. List Operations\\04. List Operations.csproj|solutionrelative:04. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAF5A32-8F42-EE48-B59C-8D0760F243A8}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAF5A32-8F42-EE48-B59C-8D0760F243A8}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|solutionrelative:10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D0A3B3-44EA-15F7-7C88-E35C5603B70C}|01. Train\\01. Train.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D0A3B3-44EA-15F7-7C88-E35C5603B70C}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A178B62C-667D-46A5-F641-4EF4C6C4E4EA}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A178B62C-667D-46A5-F641-4EF4C6C4E4EA}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|solutionrelative:09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146C07F0-7FDD-56DD-F2F5-29755985A0D2}|08. Anonymous Threat\\08. Anonymous Threat.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146C07F0-7FDD-56DD-F2F5-29755985A0D2}|08. Anonymous Threat\\08. Anonymous Threat.csproj|solutionrelative:08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE9F0F4-1E56-B5A9-54E0-0C4F93EBA44B}|07. Append Arrays\\07. Append Arrays.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\07. append arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE9F0F4-1E56-B5A9-54E0-0C4F93EBA44B}|07. Append Arrays\\07. Append Arrays.csproj|solutionrelative:07. append arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F76D6B-BA04-A223-A168-918B927D5A45}|06. Cards Game\\06. Cards Game.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\06. cards game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F76D6B-BA04-A223-A168-918B927D5A45}|06. Cards Game\\06. Cards Game.csproj|solutionrelative:06. cards game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D883C36-6D3A-E2F7-5C07-B1B54A523F54}|03. House Party\\03. House Party.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\03. house party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D883C36-6D3A-E2F7-5C07-B1B54A523F54}|03. House Party\\03. House Party.csproj|solutionrelative:03. house party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862A356B-C490-D1B7-6F23-CF557820E398}|02. Change List\\02. Change List.csproj|e:\\fundamentals repo\\softuni-fundamentals\\lists - exercise\\02. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862A356B-C490-D1B7-6F23-CF557820E398}|02. Change List\\02. Change List.csproj|solutionrelative:02. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\10. SoftUni Course Planning\\Program.cs",
+              "RelativeDocumentMoniker": "10. SoftUni Course Planning\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\10. SoftUni Course Planning\\Program.cs",
+              "RelativeToolTip": "10. SoftUni Course Planning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:38:39.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\09. Pokemon Don\u0027t Go\\Program.cs",
+              "RelativeDocumentMoniker": "09. Pokemon Don\u0027t Go\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\09. Pokemon Don\u0027t Go\\Program.cs",
+              "RelativeToolTip": "09. Pokemon Don\u0027t Go\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:38:27.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\08. Anonymous Threat\\Program.cs",
+              "RelativeDocumentMoniker": "08. Anonymous Threat\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\08. Anonymous Threat\\Program.cs",
+              "RelativeToolTip": "08. Anonymous Threat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:38:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\07. Append Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "07. Append Arrays\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\07. Append Arrays\\Program.cs",
+              "RelativeToolTip": "07. Append Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:37:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\06. Cards Game\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cards Game\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\06. Cards Game\\Program.cs",
+              "RelativeToolTip": "06. Cards Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:37:44.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\05. Bomb Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Bomb Numbers\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\05. Bomb Numbers\\Program.cs*",
+              "RelativeToolTip": "05. Bomb Numbers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:37:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\04. List Operations\\Program.cs",
+              "RelativeDocumentMoniker": "04. List Operations\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\04. List Operations\\Program.cs",
+              "RelativeToolTip": "04. List Operations\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:37:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\03. House Party\\Program.cs",
+              "RelativeDocumentMoniker": "03. House Party\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\03. House Party\\Program.cs",
+              "RelativeToolTip": "03. House Party\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:37:07.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\02. Change List\\Program.cs",
+              "RelativeDocumentMoniker": "02. Change List\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\02. Change List\\Program.cs",
+              "RelativeToolTip": "02. Change List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:36:54.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\01. Train\\Program.cs",
+              "RelativeDocumentMoniker": "01. Train\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Lists - Exercise\\01. Train\\Program.cs",
+              "RelativeToolTip": "01. Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:36:29.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

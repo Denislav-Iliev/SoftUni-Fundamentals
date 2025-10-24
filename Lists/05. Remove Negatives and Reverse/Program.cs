@@ -1,0 +1,21 @@
+﻿using System.Globalization;
+
+List<int> integers = Console.ReadLine().Split().Select(int.Parse).ToList();
+
+for (int i = 0; i < integers.Count; i++)
+{
+    if (integers[i] < 0)
+    {
+        integers.RemoveAt(i);
+        i--;
+    }
+}
+integers.Reverse();
+if (integers.Count == 0)
+{
+    Console.WriteLine("empty");
+}
+else
+{
+    Console.WriteLine(string.Join(" ", integers));
+}

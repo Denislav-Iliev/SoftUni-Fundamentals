@@ -1,0 +1,14 @@
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.exe
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.deps.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\refint\01. Sum Adjacent Equal Numbers.dll
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.pdb
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+E:\Fundamentals Repo\SoftUni-Fundamentals\Lists\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\ref\01. Sum Adjacent Equal Numbers.dll

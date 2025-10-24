@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1345D-CBE7-481F-B16B-06300B7B5392}|Problem 1 - Computer Store\\Problem 1 - Computer Store.csproj|e:\\fundamentals repo\\softuni-fundamentals\\exam preparation2\\problem 1 - computer store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1345D-CBE7-481F-B16B-06300B7B5392}|Problem 1 - Computer Store\\Problem 1 - Computer Store.csproj|solutionrelative:problem 1 - computer store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation2\\Problem 1 - Computer Store\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 1 - Computer Store\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Exam Preparation2\\Problem 1 - Computer Store\\Program.cs",
+              "RelativeToolTip": "Problem 1 - Computer Store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:25:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

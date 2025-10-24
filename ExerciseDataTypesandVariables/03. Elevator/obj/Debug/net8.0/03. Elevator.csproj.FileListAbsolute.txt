@@ -1,0 +1,15 @@
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\bin\Debug\net8.0\03. Elevator.exe
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\bin\Debug\net8.0\03. Elevator.deps.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\bin\Debug\net8.0\03. Elevator.runtimeconfig.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\bin\Debug\net8.0\03. Elevator.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\bin\Debug\net8.0\03. Elevator.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.AssemblyInfoInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.AssemblyInfo.cs
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.csproj.CoreCompileInputs.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.sourcelink.json
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\refint\03. Elevator.dll
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.pdb
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\03. Elevator.genruntimeconfig.cache
+E:\Fundamentals Repo\Visual Studio Projects\ExerciseDataTypesandVariables\03. Elevator\obj\Debug\net8.0\ref\03. Elevator.dll

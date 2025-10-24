@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01. Randomize Words/01. Randomize Words.csproj" />
+  <Project Path="02. Big Factorial/02. Big Factorial.csproj" />
+  <Project Path="03. Songs/03. Songs.csproj" />
+  <Project Path="04. Students/04. Students.csproj" />
+  <Project Path="05. Students 2.0/05. Students 2.0.csproj" />
+  <Project Path="06. Store Boxes/06. Store Boxes.csproj" />
+  <Project Path="07. Vehicle Catalogue/07. Vehicle Catalogue.csproj" />
+</Solution>

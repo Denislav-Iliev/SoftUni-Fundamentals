@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3850A-1E7D-FA9C-93E9-860BDBA7F00F}|03. Articles 2.0\\03. Articles 2.0.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB3850A-1E7D-FA9C-93E9-860BDBA7F00F}|03. Articles 2.0\\03. Articles 2.0.csproj|solutionrelative:03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6027B5C-F131-838F-5279-E723D9FF6286}|02. Articles\\02. Articles.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6027B5C-F131-838F-5279-E723D9FF6286}|02. Articles\\02. Articles.csproj|solutionrelative:02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B73246-8493-E918-C9C6-6DB64B3EC2CE}|01. Advertisement Message\\01. Advertisement Message.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B73246-8493-E918-C9C6-6DB64B3EC2CE}|01. Advertisement Message\\01. Advertisement Message.csproj|solutionrelative:01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A575BA-9060-C9D1-7381-22F488AE06C0}|07. Order by Age\\07. Order by Age.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A575BA-9060-C9D1-7381-22F488AE06C0}|07. Order by Age\\07. Order by Age.csproj|solutionrelative:07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA119F76-7AFC-392E-4C87-AB4213F92C3A}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA119F76-7AFC-392E-4C87-AB4213F92C3A}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|solutionrelative:06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DF6CC7-833B-A26A-16E0-8F550C0A4A15}|05. Teamwork Projects\\05. Teamwork Projects.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DF6CC7-833B-A26A-16E0-8F550C0A4A15}|05. Teamwork Projects\\05. Teamwork Projects.csproj|solutionrelative:05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB54FBE-E079-E4D4-D7C3-FBF33AF4FFB0}|04. Students\\04. Students.csproj|e:\\fundamentals repo\\softuni-fundamentals\\objects and classes - exercise\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB54FBE-E079-E4D4-D7C3-FBF33AF4FFB0}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeDocumentMoniker": "07. Order by Age\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeToolTip": "07. Order by Age\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:53:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "06. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:53:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeDocumentMoniker": "05. Teamwork Projects\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeToolTip": "05. Teamwork Projects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:52:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:52:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03. Articles 2.0\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeToolTip": "03. Articles 2.0\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:52:36.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02. Articles\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeToolTip": "02. Articles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:48:10.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeDocumentMoniker": "01. Advertisement Message\\Program.cs",
+              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeToolTip": "01. Advertisement Message\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:47:52.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
