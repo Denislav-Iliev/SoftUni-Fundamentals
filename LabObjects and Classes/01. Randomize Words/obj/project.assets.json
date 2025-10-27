@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\01. Randomize Words.csproj",
+      "projectUniqueName": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\01. Randomize Words.csproj",
       "projectName": "01. Randomize Words",
-      "projectPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\01. Randomize Words.csproj",
+      "projectPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\01. Randomize Words.csproj",
       "packagesPath": "C:\\Users\\bdhfa\\.nuget\\packages\\",
-      "outputPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\obj\\",
+      "outputPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

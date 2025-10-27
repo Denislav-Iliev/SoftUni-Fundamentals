@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
+      "projectUniqueName": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
       "projectName": "07. Vehicle Catalogue",
-      "projectPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
+      "projectPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
       "packagesPath": "C:\\Users\\bdhfa\\.nuget\\packages\\",
-      "outputPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\obj\\",
+      "outputPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

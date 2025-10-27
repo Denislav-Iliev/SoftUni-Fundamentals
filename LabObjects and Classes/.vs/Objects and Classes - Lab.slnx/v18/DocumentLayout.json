@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\",
+  "WorkspaceRootPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACC3A277-7B81-12E3-C534-27C32AF3F906}|07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\07. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACC3A277-7B81-12E3-C534-27C32AF3F906}|07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\07. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC3A277-7B81-12E3-C534-27C32AF3F906}|07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj|solutionrelative:07. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91FB8C79-137F-3A62-EE13-78AB70A58C4D}|06. Store Boxes\\06. Store Boxes.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91FB8C79-137F-3A62-EE13-78AB70A58C4D}|06. Store Boxes\\06. Store Boxes.csproj|solutionrelative:06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B0AB5D-A82C-8CF4-9CDE-F34D39CFC712}|01. Randomize Words\\01. Randomize Words.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B0AB5D-A82C-8CF4-9CDE-F34D39CFC712}|01. Randomize Words\\01. Randomize Words.csproj|solutionrelative:01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD27E88A-0540-A4A2-2BCA-2BF282FC5C8E}|05. Students 2.0\\05. Students 2.0.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD27E88A-0540-A4A2-2BCA-2BF282FC5C8E}|05. Students 2.0\\05. Students 2.0.csproj|solutionrelative:05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C948D8C-2764-2F77-B303-468150EB1D9E}|03. Songs\\03. Songs.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C948D8C-2764-2F77-B303-468150EB1D9E}|03. Songs\\03. Songs.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C948D8C-2764-2F77-B303-468150EB1D9E}|03. Songs\\03. Songs.csproj|solutionrelative:03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB54FBE-E079-E4D4-D7C3-FBF33AF4FFB0}|04. Students\\04. Students.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91FB8C79-137F-3A62-EE13-78AB70A58C4D}|06. Store Boxes\\06. Store Boxes.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FB8C79-137F-3A62-EE13-78AB70A58C4D}|06. Store Boxes\\06. Store Boxes.csproj|solutionrelative:06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B0AB5D-A82C-8CF4-9CDE-F34D39CFC712}|01. Randomize Words\\01. Randomize Words.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B0AB5D-A82C-8CF4-9CDE-F34D39CFC712}|01. Randomize Words\\01. Randomize Words.csproj|solutionrelative:01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27E88A-0540-A4A2-2BCA-2BF282FC5C8E}|05. Students 2.0\\05. Students 2.0.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD27E88A-0540-A4A2-2BCA-2BF282FC5C8E}|05. Students 2.0\\05. Students 2.0.csproj|solutionrelative:05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB54FBE-E079-E4D4-D7C3-FBF33AF4FFB0}|04. Students\\04. Students.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFB54FBE-E079-E4D4-D7C3-FBF33AF4FFB0}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C48BCBF6-48CE-D8F1-8FE6-7043FBDCD7C2}|02. Big Factorial\\02. Big Factorial.csproj|e:\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\02. big factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C48BCBF6-48CE-D8F1-8FE6-7043FBDCD7C2}|02. Big Factorial\\02. Big Factorial.csproj|r:\\visual studio\\fundamentals repo\\softuni-fundamentals\\labobjects and classes\\02. big factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48BCBF6-48CE-D8F1-8FE6-7043FBDCD7C2}|02. Big Factorial\\02. Big Factorial.csproj|solutionrelative:02. big factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,35 +44,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\Program.cs",
               "RelativeDocumentMoniker": "07. Vehicle Catalogue\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\07. Vehicle Catalogue\\Program.cs",
               "RelativeToolTip": "07. Vehicle Catalogue\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAUwBIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T14:51:34.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\06. Store Boxes\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\06. Store Boxes\\Program.cs",
               "RelativeDocumentMoniker": "06. Store Boxes\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\06. Store Boxes\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\06. Store Boxes\\Program.cs",
               "RelativeToolTip": "06. Store Boxes\\Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:13:26.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T13:13:26.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\05. Students 2.0\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\05. Students 2.0\\Program.cs",
               "RelativeDocumentMoniker": "05. Students 2.0\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\05. Students 2.0\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\05. Students 2.0\\Program.cs",
               "RelativeToolTip": "05. Students 2.0\\Program.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\04. Students\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\04. Students\\Program.cs",
               "RelativeDocumentMoniker": "04. Students\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\04. Students\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\04. Students\\Program.cs",
               "RelativeToolTip": "04. Students\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,23 +91,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\Program.cs",
               "RelativeDocumentMoniker": "03. Songs\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\Program.cs",
               "RelativeToolTip": "03. Songs\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:12:39.917Z"
+              "WhenOpened": "2025-10-23T13:12:39.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\02. Big Factorial\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\02. Big Factorial\\Program.cs",
               "RelativeDocumentMoniker": "02. Big Factorial\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\02. Big Factorial\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\02. Big Factorial\\Program.cs",
               "RelativeToolTip": "02. Big Factorial\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,16 +116,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\Program.cs",
+              "DocumentMoniker": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\Program.cs",
               "RelativeDocumentMoniker": "01. Randomize Words\\Program.cs",
-              "ToolTip": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\Program.cs",
+              "ToolTip": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\01. Randomize Words\\Program.cs",
               "RelativeToolTip": "01. Randomize Words\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:09:59.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T12:09:59.677Z"
             }
           ]
         }

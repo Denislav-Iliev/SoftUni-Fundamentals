@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj": {}
+    "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj": {}
   },
   "projects": {
-    "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj": {
+    "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj",
+        "projectUniqueName": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj",
         "projectName": "03. Songs",
-        "projectPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj",
+        "projectPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\03. Songs.csproj",
         "packagesPath": "C:\\Users\\bdhfa\\.nuget\\packages\\",
-        "outputPath": "E:\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\obj\\",
+        "outputPath": "R:\\Visual Studio\\Fundamentals Repo\\SoftUni-Fundamentals\\LabObjects and Classes\\03. Songs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
